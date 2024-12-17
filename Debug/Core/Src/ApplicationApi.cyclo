@@ -1,0 +1,2 @@
+../Core/Src/ApplicationApi.c:14:6:togglePower	1
+../Core/Src/ApplicationApi.c:22:6:getPowerStatus	1

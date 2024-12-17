@@ -1,0 +1,14 @@
+../Core/Src/utils.c:16:6:HAL_UART_TxCpltCallback	2
+../Core/Src/utils.c:27:6:startupPrompt	2
+../Core/Src/utils.c:49:6:creationFailMessage	1
+../Core/Src/utils.c:60:6:powerMessage	2
+../Core/Src/utils.c:78:6:autoOffTimerMessage	1
+../Core/Src/utils.c:87:6:strongBrewMessage	3
+../Core/Src/utils.c:107:6:brewTypeMessage	2
+../Core/Src/utils.c:131:6:waterLevelMessage	1
+../Core/Src/utils.c:148:6:updateProgressBar	3
+../Core/Src/utils.c:177:6:progressAnimation	2
+../Core/Src/utils.c:192:6:enoughWaterCheck	3
+../Core/Src/utils.c:229:6:printIT	4
+../Core/Src/utils.c:259:6:ledCtrl	5
+../Core/Src/utils.c:294:6:getLedGpio	7

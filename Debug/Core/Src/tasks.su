@@ -1,0 +1,6 @@
+../Core/Src/tasks.c:16:6:StartDefaultTask	16	static
+../Core/Src/tasks.c:35:6:powerOnTask	16	static
+../Core/Src/tasks.c:69:6:strongBrewTask	16	static
+../Core/Src/tasks.c:92:6:brewerTask	32	static
+../Core/Src/tasks.c:145:6:pvAutoOffTimerOneShot	16	static
+../Core/Src/tasks.c:154:6:brewingHelper	16	static
